@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafa-souz&label=Profile%20views&color=0e75b6&style=flat" alt="rafa-souz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafa-souz" alt="rafa-souz" /></a> </p>
-
 - 🔭 I’m currently working on **Drogaria Araujo S/A**
 
 - 🌱 I’m currently learning **Natural Language Processing and statistic**
