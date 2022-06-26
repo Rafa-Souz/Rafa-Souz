@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafa-souz&label=Profile%20views&color=0e75b6&style=flat" alt="rafa-souz" /> </p>
 
-- 🔭 I’m currently working on **Drogaria Araujo S/A**
+- 🔭 I’m currently working on **SA Informática**
 
 - 🌱 I’m currently learning **Natural Language Processing and statistic**
 
