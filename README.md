@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **programming logic, pandas library and sql**
 
-- 📫 How to reach me **rafael0600@yahoo.com / rsr754@gmail.com**
+- 📫 How to reach me: **rafael0600@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rafael-automation/](https://www.linkedin.com/in/rafael-automation/)
 
