@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A intern in Business Intelligence and a future Data Data Analyst / Data Scientist.</h3>
+<h3 align="center">A intern in Database Analyst and a future Data Data Analyst / Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafa-souz&label=Profile%20views&color=0e75b6&style=flat" alt="rafa-souz" /> </p>
 
