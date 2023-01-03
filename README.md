@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Proativa Inteligência em TI**
 
-- 🌱 I’m currently learning **Oracle Database**, **MySQL**, **Postgres**
+- 🌱 I’m currently learning **Oracle Database**, **MySQL** and **Postgres**
 
 - 👯 I’m looking to collaborate on **voluntery data projects**
 
