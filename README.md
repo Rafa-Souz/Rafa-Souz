@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafa-souz&label=Profile%20views&color=0e75b6&style=flat" alt="rafa-souz" /> </p>
 
-- 🔭 I’m currently working on **SA Informática**
+- 🔭 I’m currently working on **Proativa Inteligência em TI**
 
-- 🌱 I’m currently learning **Natural Language Processing and statistic**
+- 🌱 I’m currently learning **Oracle Database**, **MySQL**, **Postgres**
 
 - 👯 I’m looking to collaborate on **voluntery data projects**
 
