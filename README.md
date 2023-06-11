@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A intern in Database Analyst and a future Data Analyst / Data Engineer.</h3>
+<h3 align="center">I an a Database Analyst and study Data Analytics and Data Engineering .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafa-souz&label=Profile%20views&color=0e75b6&style=flat" alt="rafa-souz" /> </p>
 
 - 🔭 I’m currently working on **Proativa Inteligência em TI**
 
-- 🌱 I’m currently learning **Oracle Database**, **MySQL** and **Postgres**
+- 🌱 I’m currently learning **Oracle Database**, **SQL Server**, **MySQL** and **Postgres**
 
 - 👯 I’m looking to collaborate on **voluntery data projects**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rafael0600](https://medium.com/@rafael0600)
 
-- 💬 Ask me about **programming logic, pandas library and sql**
+- 💬 Ask me about **Python, Database and SQL**
 
 - 📫 How to reach me: **rafael0600@yahoo.com**
 
