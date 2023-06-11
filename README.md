@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h1 align="center">Hi 👋, I'm Rafael (Can call me Rafi)</h1>
 <h3 align="center">I an a Database Analyst and study Data Analytics and Data Engineering .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafa-souz&label=Profile%20views&color=0e75b6&style=flat" alt="rafa-souz" /> </p>
